@@ -21,7 +21,7 @@ Routes and Models using Express and as a database ORM Database using PostgreSQL
 <h3>Deployment:</h3>
 <ul>
 <li>Heroku (backend)</li>
-<li>gSurge (frontend)</li>
+<li>Surge (frontend)</li>
 </ul>
 
 
