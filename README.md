@@ -19,6 +19,10 @@ React
 Routes and Models using Express and as a database ORM Database using PostgreSQL
 
 <h3>Deployment:</h3>
-Heroku (backend)
-Surge (frontend)
+<ul>
+<li>Heroku (backend)</li>
+<li>gSurge (frontend)</li>
+</ul>
+
+
 
